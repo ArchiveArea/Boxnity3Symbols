@@ -1,0 +1,36 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Boxnity3 Symbols",
+        "description": "Boxnity3 Symbols",
+        "uuid": "13040d6f-49ea-4c05-84e1-143acf12cdc3",
+        "version": [
+            2,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Boxnity3 Symbols",
+            "type": "resources",
+            "uuid": "a817ae25-d918-4464-a922-8d4edbc3c2fe",
+            "version": [
+                2,
+                0,
+                0
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "NhanAZ"
+        ],
+        "url": "https://github.com/NhanAZ"
+    }
+}
